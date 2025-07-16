@@ -23,6 +23,12 @@ To start the application, run the main script:
 ```
 python src/main.py
 ```
+**Then run the simulation script:**
+```
+python tests/malware_risk.py
+```
+
+This will print the simulated detection, mitigation actions, and status updates for a complex malware scenario.
 
 ## Directory Structure
 - `src/`: Contains the main application code.
